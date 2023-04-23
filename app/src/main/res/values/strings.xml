@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">stempediaProject</string>
+    <string name="login_intro">Welcome to STEMPedia</string>
+    <string name="login_intro_text">STEMpedia is an EdTech hardware start-up</string>
+    <string name="tv_login_text">Already have account? Log In here</string>
+    <string name="password">Password</string>
+    <string name="title">Title</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_it">Sign Up</string>
+</resources>
